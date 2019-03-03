@@ -1,0 +1,5 @@
+nodemon (for not restarting the server everytime)
+morgan (for logging the request)
+body parser (for parsing the body)
+mongoose (database )
+googlempas (https://www.npmjs.com/package/googlemaps)
